@@ -29,9 +29,7 @@
 
 <br/>
 
-<img align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vishalghai" width="520px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalghai&layout=compact&hide=JupyterNotebook" width="380px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=vishalghai&count_private=true&show_icons=true" width="380px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalghai&layout=compact&hide=JupyterNotebook" width="360px"/> <img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalghai&count_private=true&show_icons=true" width="440px"/>
 
 <br/>
 

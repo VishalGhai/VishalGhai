@@ -32,7 +32,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalghai&layout=compact&hide=JupyterNotebook" width="360px"/> <img align="right" src="https://github-readme-stats.vercel.app/api?username=vishalghai&count_private=true&show_icons=true" width="440px"/>
 
 <br/>
-
-### Currently listening... :headphones:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31m3plxtqcdp2cgsk4cony7ddliy&redirect=true)

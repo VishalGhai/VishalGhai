@@ -10,8 +10,8 @@
 <br/><br/>
 <img align="right" width="230px" src="https://github.com/VishalGhai/VishalGhai/blob/main/programmer.gif"/>
 
-- 🔭 I’m currently working as Associate Software Engineer at Ivanti.
-- 🌱 I’m currently learning Spring Boot and many more stuff.
+- 🔭 I’m currently working as Software Engineer at Ivanti.
+- 🌱 I’m currently working on Spring Boot, react and angular and learning other stuff.
 - 👯 I’m looking to collaborate on with open source developers.
 - 💬 Ask me about anything, I'm happy to help you.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/vishal-ghai-88587312a/">VishalGhai</a>
